@@ -1,1 +1,2 @@
 # constructions_3rd-task
+[![Build status](https://ci.appveyor.com/api/projects/status/lg02c6p822djf73d/branch/master?svg=true)](https://ci.appveyor.com/project/zhukovvlad/constructions-3rd-task/branch/master)
